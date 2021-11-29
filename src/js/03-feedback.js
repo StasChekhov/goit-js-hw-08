@@ -13,7 +13,7 @@ let userInfo = {
     email: '',
     message: '',
 };
-
+//
 getStorageInfo();
 
 function onFormSubmit(e) {
