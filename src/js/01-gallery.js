@@ -23,7 +23,7 @@ const galleryMarkup =  galleryItems.map((galleryItem) => {
         `
     })
   .join('');
-
+//tttt
 
 
 galleryUl.insertAdjacentHTML('beforeend', galleryMarkup)
